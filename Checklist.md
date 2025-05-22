@@ -1,7 +1,8 @@
 # ✅ PL-300 Power BI Data Analyst Exam – Study Checklist
 
 ## 📁 1. Prepare the Data (15–20%)
-- [ ] Get data from Excel, SQL Server, SharePoint, Web, etc.  
+- [X] Get data from Excel, SQL Server, SharePoint, Web, etc.  
+    - get Data in Power BI Lab 
 - [ ] Use Power Query to clean and transform data  
 - [ ] Apply data profiling in Power Query  
 - [ ] Handle missing or incorrect data  
@@ -36,14 +37,10 @@
 - [ ] Set up and use dataflows  
 - [ ] Publish reports to workspaces  
 - [X] Create and manage Power BI Apps for deployment  
+    - PowerBI Apps - YT video 'Guy in a Cude'
 - [ ] Use shared datasets  
 - [ ] Assign workspace roles (Admin, Member, Contributor, Viewer)  
 - [ ] Implement Row-Level Security (RLS)  
 - [ ] Configure permissions on datasets and reports 
 
 
-
-## Material  Viewed/Completed
-
-- Getting Started with PowerBI - Microsoft learn
-- PowerBI Apps - YT video 'Guy in a Cude'
