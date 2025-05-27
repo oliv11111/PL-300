@@ -3,13 +3,18 @@
 ## 📁 1. Prepare the Data (15–20%)
 - [X] Get data from Excel, SQL Server, SharePoint, Web, etc.  
     - get Data in Power BI Lab 
-- [ ] Use Power Query to clean and transform data  
-- [ ] Apply data profiling in Power Query  
-- [ ] Handle missing or incorrect data  
-- [ ] Merge and append queries  
-- [ ] Apply transformations (split, replace, pivot, unpivot, etc.)  
-- [ ] Load data into Power BI model  
-
+- [X] Use Power Query to clean and transform data  
+    - Clean, transform, and load data in Power BI Lesson & Lab
+- [X] Apply data profiling in Power Query  
+    - Clean, transform, and load data in Power BI Lesson& Lab
+- [X] Handle missing or incorrect data  
+    - Clean, transform, and load data in Power BI Lesson & Lab
+- [X] Merge and append queries  
+    - Clean, transform, and load data in Power BI Lesson & Lab
+- [X] Apply transformations (split, replace, pivot, unpivot, etc.)
+    - Clean, transform, and load data in Power BI Lesson & Lab 
+- [X] Load data into Power BI model  
+    - Clean, transform, and load data in Power BI Lesson & Lab
 ## 📊 2. Model the Data (30–35%)
 - [ ] Design relationships between tables (1:1, 1:*, cross-filtering)  
 - [ ] Normalize and denormalize data  
@@ -43,4 +48,6 @@
 - [ ] Implement Row-Level Security (RLS)  
 - [ ] Configure permissions on datasets and reports 
 
+![alt text](image-1.png)
 
+![alt text](image.png)
