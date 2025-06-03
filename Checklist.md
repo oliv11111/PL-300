@@ -16,14 +16,15 @@
 - [X] Load data into Power BI model  
     - Clean, transform, and load data in Power BI Lesson & Lab
 ## 📊 2. Model the Data (30–35%)
-- [ ] Design relationships between tables (1:1, 1:*, cross-filtering)  
+- [X] Design relationships between tables (1:1, 1:*, cross-filtering)  
+    - Design a semantic model in Power BI lesson & lab
 - [ ] Normalize and denormalize data  
 - [ ] Create calculated columns  
 - [ ] Create measures using DAX  
 - [ ] Use time intelligence functions (YTD, MTD, SAMEPERIODLASTYEAR, etc.)  
-- [ ] Use core DAX functions (CALCULATE, FILTER, SUMX, IF, etc.)  
+- [X] Use core DAX functions (CALCULATE, FILTER, SUMX, IF, etc.)  
 - [ ] Optimize model performance (reduce cardinality, choose correct data types)  
-- [ ] Use star schema for efficient modeling  
+- [X] Use star schema for efficient modeling  
 
 ## 📈 3. Visualize and Analyze the Data (25–30%)
 - [ ] Create standard visuals (bar, line, matrix, slicers, etc.)  
@@ -51,3 +52,6 @@
 ![alt text](image-1.png)
 
 ![alt text](image.png)
+
+
+![alt text](image-2.png)
