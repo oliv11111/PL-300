@@ -19,10 +19,13 @@
 - [X] Design relationships between tables (1:1, 1:*, cross-filtering)  
     - Design a semantic model in Power BI lesson & lab
 - [ ] Normalize and denormalize data  
-- [ ] Create calculated columns  
-- [ ] Create measures using DAX  
+- [X] Create calculated columns
+    - Write DAX formulas for PowerBI lesson  
+- [x] Create measures using DAX  
+    - Write DAX formulas for PowerBI lesson
 - [ ] Use time intelligence functions (YTD, MTD, SAMEPERIODLASTYEAR, etc.)  
 - [X] Use core DAX functions (CALCULATE, FILTER, SUMX, IF, etc.)  
+    - Write DAX formulas for PowerBI lesson
 - [ ] Optimize model performance (reduce cardinality, choose correct data types)  
 - [X] Use star schema for efficient modeling  
 
@@ -49,9 +52,21 @@
 - [ ] Implement Row-Level Security (RLS)  
 - [ ] Configure permissions on datasets and reports 
 
-![alt text](image-1.png)
+## Achievement Gallery 
 
-![alt text](image.png)
+<details>
+<summary>📸 Click to view my completed assessments & learning path screenshots</summary>
 
+<br>
 
-![alt text](image-2.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="image.png" alt="" width="200"/>  
+  <img src="image-1.png" alt="" width="200"/>
+  <img src="image-2.png" alt="Completed Assessment 2" width="200"/>
+  <img src="image-3.png" alt="Learning Path 1" width="200"/>
+    <!-- Add more as needed -->
+
+</div>
+
+</details>
